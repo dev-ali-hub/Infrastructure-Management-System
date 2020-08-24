@@ -1,0 +1,6 @@
+{
+    "database": "Power",
+    "username": "sa",
+    "password": "sql",
+    "host": "127.0.0.1"
+}

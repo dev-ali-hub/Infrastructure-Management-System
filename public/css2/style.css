@@ -1,0 +1,31 @@
+html {
+    min-height: 100%;
+    background: url("../images/hero.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+body {
+    background-color: transparent;
+}
+
+.title {
+    color: beige
+}
+
+button {
+    border-radius: 5px;
+    width: 20%;
+    margin: 0px auto;
+    float: none;
+}
+
+.canvas-cont {
+    background-color: rgba(245, 245, 220, 0.8);
+    width: 1100px;
+    margin: 5% auto auto;
+}
+
+.error {
+    color: red !important;
+}
